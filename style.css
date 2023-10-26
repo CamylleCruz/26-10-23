@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
+
+body{
+    background-image: url('ailido3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    font-family: 'Calligraffitti', cursive;
+    
+}
+
+h1{
+    font-family: 'arial', cursive;
+    color: rgb(0, 0, 0);
+}
+
+forms{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+textarea{
+    resize: none;
+}
+
+fieldset{
+    width: 500px;
+}
+
+.formulario_inteiro{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
